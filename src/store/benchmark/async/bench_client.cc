@@ -2,6 +2,7 @@
  *
  * store/benchmark/async/bench_client.cc:
  *
+ * Copyright 2025 Jennifer Lam
  * Copyright 2022 Jeffrey Helt, Matthew Burke, Amit Levy, Wyatt Lloyd
  *
  * Permission is hereby granted, free of charge, to any person

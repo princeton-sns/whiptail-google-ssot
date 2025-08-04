@@ -4,6 +4,7 @@
  * store/common/backend/versionstore.cc:
  *   Timestamped version store
  *
+ * Copyright 2025 Jennifer Lam
  * Copyright 2022 Jeffrey Helt, Matthew Burke, Amit Levy, Wyatt Lloyd
  * Copyright 2015 Irene Zhang <iyzhang@cs.washington.edu>
  *

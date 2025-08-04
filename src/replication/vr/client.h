@@ -5,6 +5,7 @@
  *   dummy implementation of replication interface that just uses a
  *   single replica and passes commands directly to it
  *
+ * Copyright 2025 Jennifer Lam
  * Copyright 2022 Jeffrey Helt, Matthew Burke, Amit Levy, Wyatt Lloyd
  * Copyright 2013 Dan R. K. Ports  <drkp@cs.washington.edu>
  *

@@ -5,6 +5,7 @@
  *   Representation of a replica group configuration, i.e. the number
  *   and list of replicas in the group
  *
+ * Copyright 2025 Jennifer Lam
  * Copyright 2022 Jeffrey Helt, Matthew Burke, Amit Levy, Wyatt Lloyd
  * Copyright 2013 Dan R. K. Ports  <drkp@cs.washington.edu>
  *

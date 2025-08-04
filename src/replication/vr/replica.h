@@ -4,6 +4,7 @@
  * vr/replica.h:
  *   Viewstamped Replication protocol
  *
+ * Copyright 2025 Jennifer Lam
  * Copyright 2022 Jeffrey Helt, Matthew Burke, Amit Levy, Wyatt Lloyd
  * Copyright 2013 Dan R. K. Ports  <drkp@cs.washington.edu>
  *
